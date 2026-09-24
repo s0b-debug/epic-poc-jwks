@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "epic-poc-key-1",
+      "n": "kXHTxx9TPY7BfWqM8rKReSGhbuBEqf6KAR6WgoYpJCX6anMW0RxD6n7RrwyvuDp-pPioXJE7Wz67A1GouEBsdhtkkdaGEMaPU4hT22G1XF2jygQactTXxYl5jMIeqlitCDLoBYFj11hK24RzFaz4EplbrpzPJYO1oz5M3_b8a9PQdVelThFfYxa4wOD-gdJ-bhDRLu83ZB5Mk8I6Cvm_gyUaMHtVxpBcNXj14YybPlzHyVokHJwbCZHUwPB7cizYyGNzBBD15vNGRf0LognhuErKItzfXrLdgIis9pUIpzAixN-LeSvK0zEJX2ZlKoZH78jeikAK2vnKIS4-JCicRw",
+      "e": "AQAB"
+    }
+  ]
+}
